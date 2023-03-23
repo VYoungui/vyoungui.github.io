@@ -1,25 +1,3 @@
-/*body{*/
-/*    height: 100vh;*/
-/*    background-color: #c5d3ee;*/
-/*}*/
-/*.text-container{*/
-/*    color: #313030;*/
-/*}*/
-
-/*.text1 {*/
-/*    font-family: "Outfit", sans-serif;*/
-/*    font-weights: 400, 700;*/
-/*}*/
-
-/*.text{*/
-/*    font-family: "Outfit", sans-serif;*/
-/*    color: #868686;*/
-/*    font-weights: 400, 700;*/
-/*}*/
-
-/*Reponsive design pour téléphone*/
-
-
 body{
     background-color: hsl(212, 45%, 89%);
 }
